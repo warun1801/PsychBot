@@ -1,0 +1,65 @@
+{
+    "Depression": [
+        "Have you ever had a period where you felt down? Not just for a week or two but for many weeks or, perhaps, months?",
+        "Did you find you had no energy, had no interest in things, and overall had great difficulty functioning?",
+        "Has this ever happened to you before?"
+    ],
+    "Hypomania/mania": [
+        "In the past, have you ever had a period where you felt not just good, but better than good?",
+        "Did this feeling of unusually high energy and a decreased need for sleep go on not for hours or an evening, but for days and days at a time?"
+    ],
+    "Dysthymic disorder": [
+        "Have you felt down or low but able to function over the last number of years?"
+    ],
+    "Generalized anxiety disorder": [
+        "Would you describe yourself as a chronic worrier? Would others say you are someone who is always worrying about things?",
+        "Do you worry about anything and everything as opposed to just one or two things?",
+        "If so, how long has this been going on?",
+        "Some people tell me that they are worriers but they can usually handle it. Other people tell me that they are such severe worriers that they find that worrying gets in the way of their life or paralyzes them. Is this the case for you?"
+    ],
+    "Obsessive-compulsive disorder": [
+        "Do you have any unusual or repetitive thoughts that you know are silly but you simply cannot stop thinking about (for example, being contaminated by germs)?",
+        "Do you feel there are certain rituals you have to do, such as tap your hand a certain way or do things in sets of threes, which takes up a lot of time in the day?"
+    ],
+    "Delusions and hallucinations": [
+        "Do you have unusual experiences, such as hearing voices that other people cannot hear? What about seeing things that other people cannot see?",
+        "Do you have unusual ideas, such as feeling that the TV or radio has special messages for you?",
+        "Do you have unusual ideas that people you do not even know are plotting to harm or kill you?",
+        "Do you have unusual ideas, such as feeling that you have special powers that no one else has?"
+    ],
+    "Panic attacks": [
+        "Do you have panic attacks or anxiety attacks? By that I mean an attack of anxiety that comes fairly suddenly and is rather uncomfortable and involves feeling a certain number of physical sensations such as heart palpitations, shortness of breath or dizziness."
+    ],
+    "Agoraphobia": [
+        "Do you avoid going certain places because you are fearful of having a panic attack? Has this feeling restricted your activities?"
+    ],
+    "Post-traumatic stress disorder": [
+        "Do you find it hard to stop thinking about a very difficult event that has happened to you?",
+        "Do you find that you have nightmares related to the event?",
+        "Do you find that you have flashbacks? By that I mean very vivid daydreams or what we may call a 'daymare' about the event?",
+        "When something happens that reminds you of the event, does that trigger a very large response in you?",
+        "Do you find that you avoid things that remind you of the event?",
+        "Generally, do you feel anxious since the event and have trouble sleeping or startle easily?",
+        "Do you feel that this event, and the way it has left you feeling, still gets in the way of your life?"
+    ],
+    "Social phobia": [
+        "Are you able to go to social situations where you may have to interact with people you don't know well, or is that very daunting for you?",
+        "Can you eat in restaurants in front of others?",
+        "Were you able to give presentations in front of others when you were in school, or can you do it now?",
+        "Do your social fears get in the way of your life?"
+    ],
+    "Borderline personality disorder": [
+        "Do you feel you are still searching for your sense of who you are (self-identity)?",
+        "By 'sense of who you are', I mean do you have a set of values (what is important to you) that stays constant over time?",
+        "Do you have long-term feelings of sadness?",
+        "Do you have long-term feelings of anger?",
+        "Do you find that your relationships usually get very difficult and end abruptly?",
+        "Have you had thoughts of killing yourself on and off over the years?",
+        "Have you tried to kill yourself in the past?",
+        "Have you had episodes in the past where you tried to hurt yourself, not to kill yourself but simply to cause yourself pain or distract you from something?",
+        "How do you feel after these episodes? (Patients often respond that they feel a sense of release or relief.)",
+        "Do you often feel empty inside?",
+        "Do you find that you can be feeling okay then suddenly feel angry, or you can be feeling okay and suddenly feel sad? Does this happen a lot during the course of a day?",
+        "Do you find that you do things on impulse and then regret it afterwards?"
+    ]
+}
