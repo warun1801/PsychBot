@@ -22,7 +22,8 @@ India is a place where mental issues are considered aren't considered a Taboo, b
 10. Social phobia
 11. Borderline personality disorder
 
-
+## Extra - 
+A HealthHelper transformer model is also provided that can be integrated into the chats. It reads the chat until that point and tries to classify as to which type of mental disorder symptoms are being exhibited.
 
 ## References - 
 1. For the dataset for training the Stress Detector Model - http://www.cs.columbia.edu/~eturcan/data/dreaddit.zip
